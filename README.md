@@ -1,5 +1,5 @@
 # nestedFunctions
- Practicing a little of functions nested 
+## Practicing a little of functions nested 
 - Create function to-do-list
 - Create array of tasks
 - Create function to add tasks at list with two parameters
@@ -9,5 +9,6 @@
 - Make loop at list iteration by index
 - Return objects that containing the functions
 - Example use
+##
 
 
