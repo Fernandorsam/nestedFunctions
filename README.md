@@ -9,7 +9,7 @@
 - Make loop at list iteration by index
 - Return objects that containing the functions
 - Example use
-- 
+  
 ## Practicing a little of arrays >> simpleArraySum
 - Create function with parameters >spread operator< 
 - Declaring a variable to receive values of array
