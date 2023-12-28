@@ -9,6 +9,13 @@
 - Make loop at list iteration by index
 - Return objects that containing the functions
 - Example use
-##
+- 
+## Practicing a little of arrays >> simpleArraySum
+- Create function with parameters >spread operator< 
+- Declaring a variable to receive values of array
+- Making loop to iterable the elements of array
+- Making sum of elements in the array
+- Returning the result of sum
+- Printing value the elements 
 
 
