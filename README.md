@@ -1,4 +1,4 @@
-# nestedFunctions
+#  Practice arrays
 ## Practicing a little of functions nested 
 - Create function to-do-list
 - Create array of tasks
